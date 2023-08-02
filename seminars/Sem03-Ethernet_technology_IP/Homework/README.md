@@ -1,0 +1,1 @@
+![Снимок экрана 2023-08-02 в 17.43.13](https://github.com/AllIWantAreNotAvailable/GeekBrains_ComputerNetworks/blob/main/seminars/Sem03-Ethernet_technology_IP/Homework/screenshots/Снимок%20экрана%202023-08-02%20в%2017.43.13.png?raw=true)
